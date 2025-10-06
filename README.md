@@ -16,9 +16,9 @@ To analyze and visualize mobile sales performance through:
 - Payment Method Preferences  
 
 ---
-
-## 📸 Dashboard Preview
-![Mobile Sales Dashboard](images/mobile_sales_dashboard.png)
+## 📊 Dashboard Preview
+![Mobile Sales Dashboard](<img width="1367" height="720" alt="mobile_sales_dashboard" src="https://github.com/user-attachments/assets/36be2086-a973-4b48-b58f-ed24c05331eb" />
+)
 ---
 
 ## 📊 Key Insights
