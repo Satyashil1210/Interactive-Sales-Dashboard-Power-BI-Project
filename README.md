@@ -19,9 +19,6 @@ To analyze and visualize mobile sales performance through:
 
 ## 📸 Dashboard Preview
 ![Mobile Sales Dashboard](images/mobile_sales_dashboard.png)
-
-> *(Add your Power BI dashboard screenshot inside the images folder and name it mobile_sales_dashboard.png.)*
-
 ---
 
 ## 📊 Key Insights
